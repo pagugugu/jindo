@@ -1,0 +1,2 @@
+# jindo
+pagugugu.github.io
